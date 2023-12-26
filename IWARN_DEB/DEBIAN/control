@@ -1,0 +1,7 @@
+Package: IWARN
+Version: 0.1.0
+Section: devel
+Priority: optional
+Architecture: amd64
+Maintainer: Edwer Lastisnoft
+Description: An array programming language destined to overthrown APL.
